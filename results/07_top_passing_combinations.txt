@@ -1,0 +1,18 @@
+    team_name     |        passer         |       receiver        | completed_passes | progressive | avg_forward_distance 
+------------------+-----------------------+-----------------------+------------------+-------------+----------------------
+ Bayer Leverkusen | Exequiel Palacios     | Granit Xhaka          |              459 |           1 |                  0.9
+ Bayer Leverkusen | Jonathan Tah          | Granit Xhaka          |              380 |           6 |                  7.0
+ Bayer Leverkusen | Granit Xhaka          | Florian Wirtz         |              349 |          41 |                  9.3
+ Bayer Leverkusen | Granit Xhaka          | Exequiel Palacios     |              343 |           3 |                  0.7
+ Bayer Leverkusen | Edmond Fayçal Tapsoba | Granit Xhaka          |              328 |           2 |                  6.0
+ Bayer Leverkusen | Piero Hincapié        | Álex Grimaldo         |              324 |          11 |                  9.3
+ Bayer Leverkusen | Granit Xhaka          | Jonathan Tah          |              319 |           1 |                 -7.5
+ Bayer Leverkusen | Álex Grimaldo         | Florian Wirtz         |              308 |          36 |                  2.9
+ Bayer Leverkusen | Granit Xhaka          | Álex Grimaldo         |              293 |          29 |                  9.7
+ Bayer Leverkusen | Granit Xhaka          | Edmond Fayçal Tapsoba |              292 |           1 |                 -6.4
+ Bayer Leverkusen | Jonathan Tah          | Edmond Fayçal Tapsoba |              282 |           0 |                  0.4
+ Bayer Leverkusen | Álex Grimaldo         | Piero Hincapié        |              270 |           5 |                -10.0
+ Bayer Leverkusen | Florian Wirtz         | Granit Xhaka          |              256 |           4 |                 -5.0
+ Bayer Leverkusen | Robert Andrich        | Granit Xhaka          |              251 |           2 |                  2.9
+ Bayer Leverkusen | Florian Wirtz         | Álex Grimaldo         |              241 |          30 |                  0.9
+

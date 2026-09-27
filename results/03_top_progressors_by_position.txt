@@ -1,0 +1,18 @@
+ position_group |      player      |       team       | competition_name | minutes | prog_passes_p90 | prog_carries_p90 | progressions_p90 | rank_in_position 
+----------------+------------------+------------------+------------------+---------+-----------------+------------------+------------------+------------------
+ DEF            | Jeremie Frimpong | Bayer Leverkusen | 1. Bundesliga    |  2378.6 |            2.80 |             7.34 |            10.14 |                1
+ DEF            | Joshua Kimmich   | Germany          | UEFA Euro        |   524.4 |            5.84 |             2.23 |             8.07 |                2
+ DEF            | Ferdi Kadioglu   | Turkey           | UEFA Euro        |   490.0 |            2.20 |             4.96 |             7.16 |                3
+ DEF            | Nathan Tella     | Bayer Leverkusen | 1. Bundesliga    |   922.0 |            2.83 |             4.30 |             7.13 |                4
+ DEF            | Aymeric Laporte  | Spain            | UEFA Euro        |   567.2 |            4.28 |             2.70 |             6.98 |                5
+ FWD            | Lamine Yamal     | Spain            | UEFA Euro        |   530.8 |            4.75 |             7.63 |            12.38 |                1
+ FWD            | Kylian Mbappé    | France           | UEFA Euro        |   489.2 |            3.31 |             8.09 |            11.40 |                2
+ FWD            | Bukayo Saka      | England          | UEFA Euro        |   666.8 |            4.72 |             4.99 |             9.71 |                3
+ FWD            | Nico Williams    | Spain            | UEFA Euro        |   517.1 |            3.83 |             5.57 |             9.40 |                4
+ FWD            | Cody Gakpo       | Netherlands      | UEFA Euro        |   560.5 |            3.21 |             5.46 |             8.67 |                5
+ MID            | Florian Wirtz    | Bayer Leverkusen | 1. Bundesliga    |  2529.0 |            7.30 |             5.62 |            12.92 |                1
+ MID            | Amine Adli       | Bayer Leverkusen | 1. Bundesliga    |  1001.5 |            3.41 |             3.68 |             7.09 |                2
+ MID            | Granit Xhaka     | Bayer Leverkusen | 1. Bundesliga    |  3034.8 |            5.34 |             1.42 |             6.76 |                3
+ MID            | N'Golo Kanté     | France           | UEFA Euro        |   540.9 |            3.83 |             2.83 |             6.66 |                4
+ MID            | Toni Kroos       | Germany          | UEFA Euro        |   510.8 |            6.17 |             0.35 |             6.52 |                5
+

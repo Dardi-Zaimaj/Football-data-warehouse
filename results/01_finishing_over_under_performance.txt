@@ -1,0 +1,18 @@
+ competition_name |      player       |       team       | minutes | shots | np_goals | npxg | goals_minus_xg | npxg_per_shot 
+------------------+-------------------+------------------+---------+-------+----------+------+----------------+---------------
+ 1. Bundesliga    | Álex Grimaldo     | Bayer Leverkusen |  2994.7 |    71 |       10 | 5.21 |           4.79 |         0.073
+ 1. Bundesliga    | Florian Wirtz     | Bayer Leverkusen |  2529.0 |    71 |       10 | 7.69 |           2.31 |         0.110
+ 1. Bundesliga    | Robert Andrich    | Bayer Leverkusen |  1848.6 |    23 |        4 | 1.70 |           2.30 |         0.074
+ 1. Bundesliga    | Josip Stanišić    | Bayer Leverkusen |  1377.0 |    10 |        3 | 0.79 |           2.21 |         0.079
+ 1. Bundesliga    | Jonathan Tah      | Bayer Leverkusen |  2848.1 |    26 |        4 | 1.81 |           2.19 |         0.070
+ UEFA Euro        | Cody Gakpo        | Netherlands      |   560.5 |    13 |        3 | 0.89 |           2.11 |         0.068
+ UEFA Euro        | Jamal Musiala     | Germany          |   447.5 |    10 |        3 | 0.90 |           2.10 |         0.090
+ UEFA Euro        | Daniel Olmo       | Spain            |   461.5 |    17 |        3 | 1.38 |           1.62 |         0.081
+ 1. Bundesliga    | Granit Xhaka      | Bayer Leverkusen |  3034.8 |    44 |        3 | 1.57 |           1.43 |         0.036
+ 1. Bundesliga    | Patrik Schick     | Bayer Leverkusen |  1144.4 |    40 |        6 | 4.66 |           1.34 |         0.119
+ 1. Bundesliga    | Nathan Tella      | Bayer Leverkusen |   922.0 |    21 |        5 | 3.76 |           1.24 |         0.179
+ UEFA Euro        | Nico Williams     | Spain            |   517.1 |    12 |        2 | 0.95 |           1.05 |         0.079
+ 1. Bundesliga    | Amine Adli        | Bayer Leverkusen |  1001.5 |    27 |        4 | 3.09 |           0.91 |         0.114
+ 1. Bundesliga    | Exequiel Palacios | Bayer Leverkusen |  1949.9 |    21 |        2 | 1.13 |           0.87 |         0.059
+ UEFA Euro        | Fabián Ruiz       | Spain            |   579.2 |    17 |        2 | 1.14 |           0.86 |         0.067
+

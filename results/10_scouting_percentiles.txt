@@ -1,0 +1,18 @@
+        player         |    team     | minutes | npxg_pctl | xa_pctl | prog_pass_pctl | prog_carry_pctl | pressure_pctl | recovery_pctl | pass_pct_pctl | overall_score 
+-----------------------+-------------+---------+-----------+---------+----------------+-----------------+---------------+---------------+---------------+---------------
+ N'Golo Kanté          | France      |   540.9 |        25 |      80 |             80 |              80 |            86 |            88 |            73 |            73
+ Fabián Ruiz           | Spain       |   579.2 |        80 |      82 |             84 |              63 |            39 |            94 |            61 |            72
+ Bruno Fernandes       | Portugal    |   394.2 |        96 |      84 |             98 |              96 |            73 |            22 |            16 |            69
+ Kevin De Bruyne       | Belgium     |   386.2 |        86 |      90 |             96 |              92 |            47 |            49 |            18 |            68
+ Konrad Laimer         | Austria     |   286.3 |        63 |      57 |             73 |              69 |            92 |            67 |            51 |            67
+ Daniel Olmo           | Spain       |   461.5 |        94 |      92 |             57 |              90 |            45 |            43 |            37 |            65
+ Christoph Baumgartner | Austria     |   312.2 |       100 |      71 |             16 |             100 |           100 |            53 |             6 |            64
+ Pierre-Emile Højbjerg | Denmark     |   376.7 |        33 |      25 |             94 |              53 |            76 |            92 |            65 |            63
+ Dominik Szoboszlai    | Hungary     |   297.4 |        55 |      98 |             35 |              73 |            90 |            73 |            12 |            62
+ Dennis Man            | Romania     |   284.9 |        78 |     100 |             63 |              98 |             4 |            90 |             2 |            62
+ Adrien Rabiot         | France      |   388.1 |        41 |      71 |             82 |              67 |            20 |            69 |            86 |            62
+ Ruben Vargas          | Switzerland |   318.7 |        86 |      96 |             61 |              84 |            71 |            16 |            10 |            61
+ Xavi Simons           | Netherlands |   483.9 |        67 |      84 |             59 |              94 |            22 |            57 |            43 |            61
+ Vitinha               | Portugal    |   367.4 |        75 |      25 |             55 |              86 |            10 |           100 |            76 |            61
+ Giorgi Kochorashvili  | Georgia     |   391.4 |        82 |      39 |             45 |              39 |            59 |            78 |            80 |            60
+

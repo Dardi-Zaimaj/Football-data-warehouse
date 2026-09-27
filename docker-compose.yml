@@ -1,0 +1,15 @@
+# Local PostgreSQL for the warehouse:  docker compose up -d
+services:
+  db:
+    image: postgres:16
+    container_name: football-dw
+    environment:
+      POSTGRES_USER: football
+      POSTGRES_PASSWORD: football
+      POSTGRES_DB: football
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:

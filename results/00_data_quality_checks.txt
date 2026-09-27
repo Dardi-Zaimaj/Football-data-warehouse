@@ -1,0 +1,13 @@
+                    check_name                    | failing_rows | status 
+--------------------------------------------------+--------------+--------
+ Goals in fact_shot + own goals = official score  |            0 | PASS
+ Exactly 11 starters per team per match           |            0 | PASS
+ Event coordinates inside the pitch               |            0 | PASS
+ xG between 0 and 1                               |            0 | PASS
+ Minutes played <= match length                   |            0 | PASS
+ Team minutes within 10-11 players x match length |            0 | PASS
+ No duplicate event index within a match          |            0 | PASS
+ Every shooter/passer appears in the match lineup |            0 | PASS
+ Every shot key_pass_id exists in fact_pass       |            0 | PASS
+ Home team differs from away team                 |            0 | PASS
+
